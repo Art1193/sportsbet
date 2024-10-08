@@ -1,4 +1,4 @@
-# BetBlitz
+# sportsbet
 
 BetBlitz is a dynamic platform that revolutionizes the live sports experience, offering a comprehensive suite of features designed to immerse fans in the excitement of their favorite events like never before.
 
